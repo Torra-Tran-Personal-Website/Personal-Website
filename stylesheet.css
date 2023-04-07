@@ -1,0 +1,23 @@
+.box {
+  border: 5px solid;
+  padding: 10px;
+  background-color: antiquewhite;
+  margin: 15px;
+}
+.box1 {
+  border: 5px solid;
+  padding: 10px;
+  background-color: lightgray;
+  width: 150px;
+  margin: 15px;
+}
+.box2 {
+  border: 5px solid;
+  padding: 10px;
+  background-color: lightgray;
+  width: 150px;
+  margin: 15px;
+}
+image {
+  padding: 350px;
+}
