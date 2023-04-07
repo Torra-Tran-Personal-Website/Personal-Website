@@ -1,1 +1,33 @@
+.container {
+  border: solid black 1px;
+  border-radius: 3%;
+  margin: 1rem;
+  padding: 2rem;
+}
 
+body {
+  background-color: antiquewhite;
+}
+
+img {
+  width: 75%;
+  border-radius: 3%;
+  margin: 1rem;
+  padding: 2rem;
+}
+li {
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin-left: 1.5rem;
+}
